@@ -16,7 +16,7 @@ This add-on also *allows you delete your own scheduling information*. I acknowle
 - More checks and safeguards
 - Improved handling of filtered decks (thanks to Dmitry Mikheev)
 
-**SCREENSHOT**
+**SCREENSHOTS**
 
 ![](https://raw.githubusercontent.com/glutanimate/reset-card-scheduling/master/screenshots/browser.png)
 ![](https://raw.githubusercontent.com/glutanimate/reset-card-scheduling/master/screenshots/deckbrowser.png)
@@ -44,8 +44,16 @@ Licensed under the [GNU AGPLv3](https://www.gnu.org/licenses/agpl.html). The cod
 
 **MORE RESOURCES**
 
-A lot of my add-ons were commissioned by other Anki users. If you enjoy my work and would like to hire my services to work on an add-on or new feature, please feel free to reach out to me at:  ![Email icon](https://glutanimate.com/logos/email.svg) <em>ankiglutanimate [αt] gmail . com</em>
+A lot of my add-ons were commissioned by other Anki users. Please feel free to reach out to me if you would like to hire my services for any Anki-related development work (writing an add-on for you, converting existing ones to Anki 2.1, implementing a specific feature): ![Email icon](https://glutanimate.com/logos/email.svg) <em>ankiglutanimate [αt] gmail .com</em>. 
 
-Want to stay up-to-date with my latest add-on releases and updates? Feel free to follow me on Twitter: [![Twitter bird](https://glutanimate.com/logos/twitter.svg)@Glutanimate](https://twitter.com/glutanimate)
+Want to stay up-to-date with my latest add-on releases and updates? Make sure to follow me on Twitter: [![Twitter bird](https://glutanimate.com/logos/twitter.svg)@Glutanimate](https://twitter.com/glutanimate)
 
-New to Anki? Make sure to check out my YouTube channel where I post weekly tutorials on Anki add-ons and related topics: [![YouTube playbutton](https://glutanimate.com/logos/youtube.svg) / Glutanimate](https://www.youtube.com/c/glutanimate)
+New to Anki? Feel free to check out my YouTube channel where I post weekly tutorials on Anki add-ons and related topics: [![YouTube playbutton](https://glutanimate.com/logos/youtube.svg) / Glutanimate](https://www.youtube.com/c/glutanimate)
+
+**SUPPORT MY WORK**
+
+Writing, supporting, and maintaining Anki add-ons like this takes a lot of time and effort. If *Reset Card Scheduling* or any of my other add-ons has been a valuable asset in your studies, please consider **buying me a coffee**:
+
+<a href="https://www.buymeacoffee.com/glutanimate" rel="nofollow"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"></a>
+
+Each and every contribution is greatly appreciated and will help me maintain and improve my add-ons as time goes by!
