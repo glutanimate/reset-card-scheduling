@@ -25,7 +25,7 @@
 
 **AnkiWeb**
 
-[Link to the add-on on AnkiWeb](https://ankiweb.net/shared/info/not_available_yet)
+[Link to the add-on on AnkiWeb](https://ankiweb.net/shared/info/300884351)
 
 **Manual installation**
 
