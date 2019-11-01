@@ -17,6 +17,7 @@ from aqt import mw
 from aqt.utils import askUser, tooltip
 from aqt.browser import Browser
 from anki.hooks import addHook
+from anki.lang import _
 
 from .consts import anki21
 
