@@ -11,10 +11,11 @@ License: GNU AGPLv3 <https://www.gnu.org/licenses/agpl.html>
 
 import sys
 import os
-from anki import version
+from anki.utils import pointVersion
 
-anki21 = version.startswith("2.1.")
 sys_encoding = sys.getfilesystemencoding()
+
+anki21 = pointVersion() > 0
 
 if anki21:
     addon_path = os.path.dirname(__file__)
